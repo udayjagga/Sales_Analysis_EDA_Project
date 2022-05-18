@@ -1,4 +1,4 @@
-# Sales_Analysis_EDA_Project
+# Sales Analysis EDA Project
 # Introduction
 Retail Data Analytics (RDA) is used nowadays from shops in order to better predict the amount of products, that might get sold and therefore to better estimate how much products should be produced. This is very important, because the amount of sold products can vary from time to time.
 
