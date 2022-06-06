@@ -17,4 +17,3 @@ Retail Data Analytics (RDA) is used nowadays from shops in order to better predi
 
 ## Purpose
 This dataset can be used for predictive data analytics purpose.
-
